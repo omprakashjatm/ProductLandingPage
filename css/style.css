@@ -90,7 +90,9 @@ header {
 }
 .nav-link{
     color: black;
+    margin: auto;
 }
+
 
 @media (max-width: 650px) {
   .logo > img {
