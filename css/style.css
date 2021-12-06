@@ -91,6 +91,7 @@ header {
 .nav-link{
     color: black;
     margin: auto;
+  
 }
 
 
@@ -124,6 +125,8 @@ nav > ul {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  margin-block: 1%;
+
 }
 
 @media (max-width: 650px) {
